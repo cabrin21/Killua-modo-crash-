@@ -3,24 +3,24 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;KILLUA MODO +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+CABRINO+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
     <a href="https://ibb.co/th8DJZN"><img src="https://i.ibb.co/th8DJZN/o.jpg" alt="o" border="0"></a>
 <p align="center">
 <p align="center">
-<a href="https://github.com/Toxic1239/Zenon_Crash"><img title="Author" src="https://img.shields.io/badge/ZenonCrash?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/cabrin21/Killua-modo-crash"><img title="Author" src="https://img.shields.io/badge/KilluamodoCrash?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Zenon_Crash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Zenon_Crash-Star?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Zenon_Crash/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Zenon_Crash?color=green&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Zenon_Crash/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Zenon_Crash?label=Watchers&color=yellow&style=flat-square"></a>
+<a href="https://github.com/cabrin21/followers"><img title="Followers" src="https://img.shields.io/github/followers/cabrin21?color=blue&style=flat-square"></a>
+<a href="https://github.com/cabrin21/Killua-modo-crash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cabrin21/Killua-modo-crash-Star?color=red&style=flat-square"></a>
+<a href="https://github.com/cabrin21/Killua-modo-crash/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cabrin21/Killua-modo-crash?color=green&style=flat-square"></a>
+<a href="https://github.com/cabrin21/Killua-modo-crash/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/cabrin21/Killua-modo-crash?label=Watchers&color=yellow&style=flat-square"></a>
 
 ### FIRST STAR AND FORK (IMPORTANT) 
 
-1. Click on **[Fork](https://github.com/Toxic1239/Zenon_Crash/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/cabrin21/Killua-modo-crash/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 ### 2. GET SESSION ID HERE 
 
-<a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a href='https://replit.com/@obidikechikadib/Cabrino-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOYMENT PROCESS**
 ### IF YOU WANNA DEPLOY ANYWHERE JUST ADD YOUR CREDS.JSON TO YOUR FORKED REPO**
@@ -28,7 +28,7 @@
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Toxic1239/Zenon_Crash' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://github.com/cabrin21/Killua-modo-crash' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### DEPLOY ON CODESPACE 
