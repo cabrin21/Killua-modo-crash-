@@ -131,4 +131,4 @@ Enjoy the diverse features of the WhatsApp Bot Toxxic Md to enhance your convers
 
 ## Developers:
 
-- CABRINO 
+- CABRINO KILLUA 
